@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "audi-extendedNormal";
+  src: url('Audi-Type-Extended-Normal.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "audi-extendedBold";
+  src: url('Audi-Type-Extended-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "audi-screenNormal";
+  src: url('Audi-Type-Screen-Normal.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#txt2 {
+
+}
+
